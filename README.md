@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anah Chacha</h1>
 <h3 align="center">A Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.artstation.com/artwork/ealoGJ">
+<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anahchacha&label=Profile%20views&color=0e75b6&style=flat" alt="anahchacha" /> </p>
 
